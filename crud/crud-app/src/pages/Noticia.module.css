@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.section_content{
+    width: 60%;
+    background-color: white;
+    margin: auto;
+    min-height: 50vw;
+    padding: 10px;
+    text-align: center;
+}
+
+.section_content h1 {
+    font-size: 2em;
+}

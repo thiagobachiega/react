@@ -1,0 +1,10 @@
+.footer_content{
+    display: flexbox;
+    background-color: black;
+    padding: 20px;
+    text-align: center;
+}
+
+.footer_content p {
+    color: white;
+}

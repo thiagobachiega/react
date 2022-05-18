@@ -1,0 +1,44 @@
+.listcontent{
+    margin-top: 10px;
+    
+}
+
+.listcontent a {
+    text-decoration: none;
+    color: black;
+    transition: 0.5s;
+}
+
+.listcontent a:hover {
+    color: rgb(138, 110, 214);
+}
+
+.listcontent ul{
+    list-style: none;
+}
+
+.noticia{
+    display: flex;
+    padding: 23px 13px;
+    border-bottom: 1px solid rgb(192, 192, 192);
+    align-items: center;
+    grid-gap: 10px;
+    justify-content: space-between;
+}
+
+.list_desc{
+    padding-left: 220px;
+}
+
+.edit{
+    display: flex;
+    height: 20px;
+    justify-content: center;
+    grid-gap: 10px;
+}
+
+.btn_edit:hover{
+    cursor: pointer;
+    color: rgb(138, 110, 214);
+
+}

@@ -1,0 +1,18 @@
+{
+  "noticias": [
+    {
+      "titulo": "Noticia",
+      "descricao": "Noticia",
+      "texto": "Noticia",
+      "data": "4-5-2022",
+      "id": 3
+    },
+    {
+      "titulo": "Teste noticia",
+      "descricao": "teste",
+      "texto": "teste",
+      "data": "4-5-2022",
+      "id": 4
+    }
+  ]
+}

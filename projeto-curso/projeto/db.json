@@ -1,0 +1,82 @@
+{
+  "projects": [
+    {
+      "inputNum": "5000",
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "inputNum": "5000",
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "inputNum": "5000",
+      "cost": 0,
+      "services": [],
+      "id": 3
+    },
+    {
+      "inputNum": "5000",
+      "cost": 0,
+      "services": [],
+      "id": 4
+    },
+    {
+      "inputNum": "5000",
+      "cost": 0,
+      "services": [],
+      "id": 5
+    },
+    {
+      "inputNum": "5000",
+      "cost": 0,
+      "services": [],
+      "id": 6
+    },
+    {
+      "inputNum": "10000",
+      "cost": 0,
+      "services": [],
+      "id": 7
+    },
+    {
+      "inputNum": "10000",
+      "cost": 0,
+      "services": [],
+      "id": 8
+    },
+    {
+      "inputNum": "10000",
+      "cost": 0,
+      "services": [],
+      "id": 9
+    },
+    {
+      "inputNum": "10000",
+      "cost": 0,
+      "services": [],
+      "id": 10
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
